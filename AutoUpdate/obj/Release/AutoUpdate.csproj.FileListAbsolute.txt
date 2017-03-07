@@ -1,0 +1,13 @@
+D:\workspace\winform\AutoUpdate\AutoUpdate\bin\Release\update.xml
+D:\workspace\winform\AutoUpdate\AutoUpdate\bin\Release\AutoUpdate.exe
+D:\workspace\winform\AutoUpdate\AutoUpdate\bin\Release\AutoUpdate.pdb
+D:\workspace\winform\AutoUpdate\AutoUpdate\bin\Release\DotNetZip.dll
+D:\workspace\winform\AutoUpdate\AutoUpdate\bin\Release\DotNetZip.xml
+D:\workspace\winform\AutoUpdate\AutoUpdate\obj\Release\AutoUpdate.MainForm.resources
+D:\workspace\winform\AutoUpdate\AutoUpdate\obj\Release\AutoUpdate.Properties.Resources.resources
+D:\workspace\winform\AutoUpdate\AutoUpdate\obj\Release\AutoUpdate.csproj.GenerateResource.Cache
+D:\workspace\winform\AutoUpdate\AutoUpdate\obj\Release\AutoUpdate.exe
+D:\workspace\winform\AutoUpdate\AutoUpdate\obj\Release\AutoUpdate.pdb
+D:\workspace\winform\收银系统\AppCash\bin\Release\update.xml
+D:\workspace\winform\收银系统\AppCash\bin\Release\AutoUpdate.exe
+D:\workspace\winform\收银系统\AppCash\bin\Release\AutoUpdate.pdb

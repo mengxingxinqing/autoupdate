@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localconf>
+  <!--版本号，无格式要求，更新时需要修改-->
+  <version>1.2</version>
+  <manifest>http://www.waimai.com/mainfests.xml</manifest>
+  <update>AutoUpdate.exe</update>
+</localconf>

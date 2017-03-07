@@ -1,0 +1,10 @@
+D:\workspace\winform\AutoUpdate\PackProject\bin\Debug\PackProject.exe
+D:\workspace\winform\AutoUpdate\PackProject\bin\Debug\PackProject.pdb
+D:\workspace\winform\AutoUpdate\PackProject\bin\Debug\DotNetZip.dll
+D:\workspace\winform\AutoUpdate\PackProject\bin\Debug\DotNetZip.xml
+D:\workspace\winform\AutoUpdate\PackProject\obj\Debug\PackProject.MainForm.resources
+D:\workspace\winform\AutoUpdate\PackProject\obj\Debug\PackProject.Properties.Resources.resources
+D:\workspace\winform\AutoUpdate\PackProject\obj\Debug\PackProject.csproj.GenerateResource.Cache
+D:\workspace\winform\AutoUpdate\PackProject\obj\Debug\PackProject.exe
+D:\workspace\winform\AutoUpdate\PackProject\obj\Debug\PackProject.pdb
+D:\workspace\winform\AutoUpdate\PackProject\bin\Debug\PackProject.exe.config

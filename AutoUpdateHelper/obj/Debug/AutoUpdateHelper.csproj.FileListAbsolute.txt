@@ -1,0 +1,5 @@
+D:\workspace\winform\AutoUpdate\AutoUpdateHelper\bin\Debug\AutoUpdateHelper.dll
+D:\workspace\winform\AutoUpdate\AutoUpdateHelper\bin\Debug\AutoUpdateHelper.pdb
+D:\workspace\winform\AutoUpdate\AutoUpdateHelper\obj\Debug\AutoUpdateHelper.dll
+D:\workspace\winform\AutoUpdate\AutoUpdateHelper\obj\Debug\AutoUpdateHelper.pdb
+D:\workspace\winform\AutoUpdate\AutoUpdateHelper\obj\Debug\AutoUpdateHelper.csprojResolveAssemblyReference.cache

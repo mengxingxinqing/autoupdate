@@ -1,0 +1,11 @@
+D:\workspace\winform\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csprojResolveAssemblyReference.cache
+D:\workspace\winform\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.MainForm.resources
+D:\workspace\winform\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+D:\workspace\winform\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+D:\workspace\winform\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.exe
+D:\workspace\winform\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.pdb
+D:\workspace\winform\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.exe
+D:\workspace\winform\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.pdb
+D:\workspace\winform\AutoUpdate\AutoUpdate\bin\Debug\update.xml
+D:\workspace\winform\AutoUpdate\AutoUpdate\bin\Debug\DotNetZip.dll
+D:\workspace\winform\AutoUpdate\AutoUpdate\bin\Debug\DotNetZip.xml

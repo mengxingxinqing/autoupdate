@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <!--版本号，无格式要求，更新时需要修改-->
+  <version>1.3</version>
+  <description>最新的更新</description>
+  <!--applicationId运用程序ID，无格式要求，需要与客户端配置一样，否则不会进行更新-->
+  <exepath>味来外卖客户端.exe</exepath>
+  <webpath>http://www.weilai517.com/update/</webpath>
+</manifest>

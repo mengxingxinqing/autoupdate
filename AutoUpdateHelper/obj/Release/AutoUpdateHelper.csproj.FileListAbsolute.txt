@@ -1,0 +1,4 @@
+D:\workspace\winform\AutoUpdate\AutoUpdateHelper\bin\Release\AutoUpdateHelper.dll
+D:\workspace\winform\AutoUpdate\AutoUpdateHelper\bin\Release\AutoUpdateHelper.pdb
+D:\workspace\winform\AutoUpdate\AutoUpdateHelper\obj\Release\AutoUpdateHelper.dll
+D:\workspace\winform\AutoUpdate\AutoUpdateHelper\obj\Release\AutoUpdateHelper.pdb
